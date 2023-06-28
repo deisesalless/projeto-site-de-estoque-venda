@@ -1,0 +1,44 @@
+#cabecalho {
+	display: block;
+}
+
+#topo {
+	background-color: black;
+	color: white;	
+	border-radius: 10px;
+	padding: 0.05px;
+	justify-content: center;
+	text-align: center;
+	display: block;
+	align-items: center;
+}
+
+#logo {
+	padding: 4px;
+	justify-content: center;
+	text-align: center;
+	display: block;
+	align-items: center;
+}
+
+#titulo {
+	text-align: center;
+}
+
+#rodape {
+	display: block;
+	justify-content: center;
+	text-align: center;
+	background-color: black;
+	color: white;	
+	border-radius: 10px;
+	padding: 0.05px;
+	line-height: 0px;
+}
+
+#principal {
+	text-align: center;
+}
+
+
+
